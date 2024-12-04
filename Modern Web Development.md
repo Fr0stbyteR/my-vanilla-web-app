@@ -41,3 +41,4 @@ https://git-scm.com/
 - init
 - commit (write a message)
 ### GitHub https://github.com/
+An online platform that hosts git repositories
