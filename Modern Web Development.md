@@ -39,6 +39,8 @@ $("#element-id")
 SCM Source Code Management
 https://git-scm.com/
 - init
+- staging
 - commit (write a message)
+- branch
 ### GitHub https://github.com/
 An online platform that hosts git repositories
