@@ -41,6 +41,7 @@ https://git-scm.com/
 - init
 - staging
 - commit (write a message)
-- branch
+- branch / merge
+- push / pull / fetch
 ### GitHub https://github.com/
 An online platform that hosts git repositories
