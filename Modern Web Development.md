@@ -38,5 +38,6 @@ $("#element-id")
 ## Git
 SCM Source Code Management
 https://git-scm.com/
-
+- init
+- commit (write a message)
 ### GitHub https://github.com/
