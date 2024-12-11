@@ -25,6 +25,7 @@ a:hover {
 body {
   margin: 0;
   display: flex;
+  flex-direction: column;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
@@ -93,4 +94,17 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+#detection {
+  position: relative;
+  display: block;
+}
+#camera {
+  position: relative;
+  display: block;
+}
+#landmarks {
+  position: absolute;
+  display: block;
+  top: 0px;
 }
